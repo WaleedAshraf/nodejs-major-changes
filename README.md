@@ -1,4 +1,4 @@
-This repo contains info around major/notable changes in Node.js versions to help you migrate.
+This repo contains info on major/notable changes in Node.js versions to help you migrate.
 
 List of all major changes in
 - <a href="#5.0.0">5.0.0</a><br/>
@@ -11,7 +11,7 @@ List of all major changes in
 Note that changes in Node.js versions are cumulative.
 So, If you are planning to upgrade from 4.x to 8.x, you should take a look at all changes in 5.0.0 + 6.0.0 + 7.0.0 + 8.0.0.
 
-Similary if you plan to upgrade from 4.x to 6.x, you should only chack changes in 5.0.0 + 6.0.0.
+Similarly, if you plan to upgrade from 4.x to 6.x, you should only check changes in 5.0.0 + 6.0.0.
 
 _I tried to add all major changes from node/changelog, but in-case I missed something, feel free to open a PR._
 
